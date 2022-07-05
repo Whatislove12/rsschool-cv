@@ -12,11 +12,7 @@ I want to learn how to code cool, find a remote job in this area, quit my curren
 #### Skills
 Fall asleep before 5 am...
 #### Code examples
-&lt;!DOCTYPE html&gt;
-                &lt;html lang=&quot;en&quot;&gt;
-            &lt;head&gt;
-                &lt;meta charset=&quot;UTF-8&quot;&gt;
-                
+       
 ```html
 <html lang="en">
 <head>
