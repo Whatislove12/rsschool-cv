@@ -12,22 +12,20 @@ I want to learn how to code cool, find a remote job in this area, quit my curren
 #### Skills
 Fall asleep before 5 am...
 #### Code examples
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-   
-</head>
-<body>
-    <ol>
-        <li><a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3">
-            что такое биллинг
-        </a></li>
-    </ol>
-</body>
-</html>
-```
+&lt;!DOCTYPE html&gt;
+                &lt;html lang=&quot;en&quot;&gt;
+            &lt;head&gt;
+                &lt;meta charset=&quot;UTF-8&quot;&gt;
+               
+            &lt;/head&gt;
+            &lt;body&gt;
+                &lt;ol&gt;
+                    &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://inlnk.ru/AK6V3P&quot;&gt;
+                        что такое биллинг 
+                    &lt;/a&gt;&lt;/li&gt;
+                &lt;/ol&gt;
+            &lt;/body&gt;
+            &lt;/html&gt;
 #### Education
 - AUPET (Almaty)
 - Language school (Valencia)
