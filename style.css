@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Trispace:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto+Condensed:wght@300&family=Trispace:wght@100&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family:Arial, Helvetica, sans-serif;
+
+    max-width: 1200px;
+    max-height: 1400px;
+    margin: auto;
+
+}
+ 
+
+.container {
+    max-width: 1200px;
+    max-height: 1400px;
+    height: auto;
+    margin: auto;
+
+ }
+
+.estblock {
+    background: url(diamante.png) 1100px 125px/65px 65px no-repeat, url(denim.webp);
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: 0px;
+    
+    
+
+
+}
+
+.estblock2 {
+    line-height: 1.8;
+    background: #FDE9D9 url(diamante.png)125px 1220px/50px 50px no-repeat;
+    width: 25%;
+    height: 1300px;
+    box-shadow: 0 0 2px #000;
+    position: relative;
+    top: -251px;
+    left: 60px;
+    
+}
+
+.estblock3 {
+line-height: 1.5;
+width: 60%;
+height: 1000px;
+position: relative;
+top: -1269px;
+left: 400px;
+text-indent: 12px;
+
+}
+
+.esth22 {
+     text-align: center;
+     font-family: 'Trispace', sans-serif;
+     margin-bottom: 25px;
+     
+
+}
+
+.esth23 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Trispace', sans-serif;
+}
+
+.bbottom {
+    border-bottom: solid 2px gray;
+    padding-top: 25px;
+    margin-bottom: 38px;
+    width: 260px;
+    margin-left: 20px;
+   
+    
+}
+
+.conimg {
+background: url(email.png) 10px 0px/30px 30px no-repeat, url(discord.png) 10px 44px/30px 30px no-repeat, url(github.png) 10px 88px/30px 30px no-repeat, url(phone.png)10px 132px/30px 30px no-repeat, url(location.png)10px 176px/30px 30px no-repeat;
+text-indent: 50px;
+}
+
+.avatar {
+    margin-top: 30px;
+    margin-bottom:50px ;
+    width: 135px;
+    border-radius: 144px;
+    border-style:solid;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0.25)
+    
+}
+
+  .info h1 {
+     text-align:center;
+     color: #ffffff ;
+     margin-bottom: 20px;
+     position: relative;
+     left: 165px;
+     top: 125px;
+     font-size: 55px;
+     font-family: 'Trispace', sans-serif;
+
+ }
+
+ .code {
+    background: rgb(233 233 235);
+    border-radius: 12px;
+ }
+
+ a {
+    color: black;
+    text-decoration: none;
+     }
+     a:hover {
+    text-decoration:underline;
+    
+     }
+     a:active {
+    color: rgb(251, 255, 0);
+     }
+     a:visited {
+    color: gray;
+     }
+     
+
+/* .card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.card h2 {
+    margin-bottom: 0px;
+    font-style:italic;
+    text-decoration: underline;
+    border-bottom: 1px solid rgb(154, 154, 154);
+}
+
+ .contacts {
+background: rgb(0, 247, 255);
+
+ }
+
+
+/* .bg-yellow {
+    background: #dcf1ff; 
+} */ 
