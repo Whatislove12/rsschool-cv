@@ -12,8 +12,8 @@ I want to learn how to code cool, find a remote job in this area, quit my curren
 #### Skills
 Fall asleep before 5 am...
 #### Code examples
+
 ```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,6 +28,7 @@ Fall asleep before 5 am...
 </body>
 </html>
 ```
+
 #### Education
 - AUPET (Almaty)
 - Language school (Valencia)
